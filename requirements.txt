@@ -1,6 +1,7 @@
 dash==2.15.0
-numpy==1.24.4
-pandas==2.0.3
-sqlalchemy==2.0.27
-datetime==4.3
-six==1.16.0
+numpy
+pandas
+gunicorn
+sqlalchemy
+datetime
+six
