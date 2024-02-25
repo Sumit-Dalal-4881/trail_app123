@@ -30,7 +30,8 @@
 }
 
 .graph__1 {
-    height: 30vh;
+    /* height: 30vh;*/
+    height: 60%;
     width: 100%;
 }
 
