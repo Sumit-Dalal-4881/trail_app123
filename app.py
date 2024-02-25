@@ -42,8 +42,8 @@ app.layout = html.Div(
     [
         html.Div(
             [
-                html.Img(src="assets/dash-logo.png", className="app__logo"),
-                html.H4("MES FORM SUBMISSION", className="header__text"),
+                html.Img(src="assets/app-logo.png", className="app__logo"),
+                html.H4("FORM SUBMISSION", className="header__text"),
             ],
             className="app__header",
         ),
